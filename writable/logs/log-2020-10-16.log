@@ -1,0 +1,80 @@
+CRITICAL - 2020-10-16 04:30:18 --> Invalid file: mahasiswa/index.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/index...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(13): view('mahasiswa/index')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:32:18 --> Invalid file: mahasiswa/index.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/index...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(13): view('mahasiswa/index')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:32:41 --> Invalid file: mahasiswa/index.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/index...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/index', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(13): view('mahasiswa/index')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:41:54 --> Invalid file: mahasiswa/header.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/heade...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/heade...', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(16): view('mahasiswa/heade...', Array)
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:44:50 --> Invalid file: mahasiswa/header.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/heade...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/heade...', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(16): view('mahasiswa/heade...', Array)
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:54:23 --> Invalid file: mahasiswa/header.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/heade...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/heade...', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(16): view('mahasiswa/heade...', Array)
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:57:00 --> Invalid file: mahasiswa/header.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/heade...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/heade...', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(16): view('mahasiswa/heade...', Array)
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-10-16 04:57:14 --> Invalid file: mahasiswa/header.php
+#0 C:\xampp\htdocs\MyFirstWebApp\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/heade...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Common.php(1119): CodeIgniter\View\View->render('mahasiswa/heade...', Array, true)
+#2 C:\xampp\htdocs\MyFirstWebApp\app\Controllers\Home.php(16): view('mahasiswa/heade...', Array)
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(918): App\Controllers\Home->show()
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}

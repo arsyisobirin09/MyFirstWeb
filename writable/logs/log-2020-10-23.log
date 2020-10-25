@@ -1,0 +1,196 @@
+CRITICAL - 2020-10-23 04:14:22 --> syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-10-23 04:16:16 --> syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#1 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-10-23 04:21:12 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:21:14 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:21:19 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:21:23 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:01 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:03 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:03 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:03 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:22 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:22:28 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:23:39 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:26:17 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:26:20 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:31:04 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Helloworld')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Helloworld')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:31:13 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:34:04 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:34:23 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:36:32 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 04:36:33 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-10-23 05:03:52 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\MyFirstWebApp\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('helloworld/inde...')
+#2 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('helloworld/inde...')
+#3 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\MyFirstWebApp\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\MyFirstWebApp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\MyFirstWebApp\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
